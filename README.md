@@ -1,2 +1,4 @@
-# OlaMundo
- Meu primeiro repositorio do CursoEmVideo
+# Olá, Mundo!
+ Meu primeiro repositorio do CursoEmVideo.
+
+Repositório editado.
